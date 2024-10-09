@@ -6,7 +6,7 @@ O objetivo deste projeto é desenvolver um dashboard de vendas utilizando o Powe
 
 
 
-Descrição dos passos usados:
+# Descrição dos passos usados:
 Criação das tabelas e seus atributos no MySQLWorkbench;
 Importação do banco de dados para o Power BI Desktop;
 Em Modelagem, redução das entidades ao modelo Star Schema;
